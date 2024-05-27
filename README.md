@@ -7,8 +7,9 @@ Jak grac?
 Grac w wisielca chyba kazdy umie, jezeli nie to tutaj podaje kolejne kroki rozgrywki:
 1.Kliknij start
 2.Zgaduj pojedynczo litery i klikaj Enter
-3.Zgadnieta litera pojawi sie na ekranie w hasle, niezgadnieta obok - odejmie Ci to jedna probe. Masz ich tylko 6.
-4.Wygrywasz albo przegrywasz zalezy czy zgadles
+3.Zgadnieta litera pojawi sie na ekranie w hasle, obok pojawia sie lista uzytych liter.
+4.Masz tylko 6 prob.
+4.Wygrywasz albo przegrywasz zalezy czy zgadles.
 
 Lista i opis zaimplementowanych funkcji:
 
